@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fdf7fcb-8735-40b7-a3c2-6329dbf74631" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/10-SpringAiOpenAi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10-SpringAiOpenAi/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-SpringAiOpenAi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/10-SpringAiOpenAi/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="2fdf7fcb-8735-40b7-a3c2-6329dbf74631" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -55,7 +57,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "Spring Boot.Application.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -87,7 +89,7 @@
       <updated>1767702534771</updated>
       <workItem from="1767702536190" duration="4122000" />
       <workItem from="1767584229308" duration="826000" />
-      <workItem from="1767764505865" duration="1099000" />
+      <workItem from="1767764505865" duration="1783000" />
     </task>
     <servers />
   </component>
